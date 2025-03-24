@@ -1,7 +1,7 @@
 # COS20007 - Object Oriented Programming #
 
 COS20007 – Object Oriented Programming (Swinburne University)
-High Distinction (80) – Semester Project
+High Distinction (80) 
 
 This repository contains my work for COS20007 – Object Oriented Programming at Swinburne University. The unit emphasized core OOP principles including encapsulation, inheritance, polymorphism, and abstraction using Java.
 
