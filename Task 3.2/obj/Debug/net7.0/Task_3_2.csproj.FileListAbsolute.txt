@@ -1,0 +1,14 @@
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\Task_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\Task_3_2.AssemblyInfoInputs.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\Task_3_2.AssemblyInfo.cs
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\Task_3_2.csproj.CoreCompileInputs.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\bin\Debug\net7.0\Task_3_2.exe
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\bin\Debug\net7.0\Task_3_2.deps.json
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\bin\Debug\net7.0\Task_3_2.runtimeconfig.json
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\bin\Debug\net7.0\Task_3_2.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\bin\Debug\net7.0\Task_3_2.pdb
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\Task_3_2.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\refint\Task_3_2.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\Task_3_2.pdb
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\Task_3_2.genruntimeconfig.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 3.2\obj\Debug\net7.0\ref\Task_3_2.dll
