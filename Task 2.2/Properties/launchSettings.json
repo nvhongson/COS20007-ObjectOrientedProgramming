@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task_2_2": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Program Files\\Microsoft\\Azure Functions Core Tools"
+    }
+  }
+}

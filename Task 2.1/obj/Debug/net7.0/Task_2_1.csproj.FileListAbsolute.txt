@@ -1,0 +1,14 @@
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\Task_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\Task_2_1.AssemblyInfoInputs.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\Task_2_1.AssemblyInfo.cs
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\Task_2_1.csproj.CoreCompileInputs.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\bin\Debug\net7.0\Task_2_1.exe
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\bin\Debug\net7.0\Task_2_1.deps.json
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\bin\Debug\net7.0\Task_2_1.runtimeconfig.json
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\bin\Debug\net7.0\Task_2_1.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\bin\Debug\net7.0\Task_2_1.pdb
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\Task_2_1.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\refint\Task_2_1.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\Task_2_1.pdb
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\Task_2_1.genruntimeconfig.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\Task 2.1\obj\Debug\net7.0\ref\Task_2_1.dll
