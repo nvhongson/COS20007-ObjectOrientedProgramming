@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "btHG3Q+iMwhohY5RNknWmYp1dusWEF9n1EmEnloyujvThfhW//OQQGd5k5U4vIQMwTtKI/mwmT1gBiWtl1MzhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Son Ngoo\\OneDrive\\Desktop\\COS20007\\Task 4.1\\Task_4_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Son Ngoo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Son Ngoo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Son Ngoo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Son Ngoo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
