@@ -1,0 +1,14 @@
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfoInputs.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfo.cs
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\DrawingShape.csproj.CoreCompileInputs.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\bin\Debug\net8.0\DrawingShape.exe
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\bin\Debug\net8.0\DrawingShape.deps.json
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\bin\Debug\net8.0\DrawingShape.runtimeconfig.json
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\bin\Debug\net8.0\DrawingShape.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\bin\Debug\net8.0\DrawingShape.pdb
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\DrawingShape.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\refint\DrawingShape.dll
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\DrawingShape.pdb
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\DrawingShape.genruntimeconfig.cache
+C:\Users\Son Ngoo\OneDrive\Desktop\COS20007\Task 5.2\5.2 - Drawing Program - Saving and Loading\DrawingShape\DrawingShape\obj\Debug\net8.0\ref\DrawingShape.dll
