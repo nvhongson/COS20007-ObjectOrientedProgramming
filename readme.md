@@ -1,4 +1,4 @@
-#COS20007 - Object Oriented Programming#
+# COS20007 - Object Oriented Programming #
 
 COS20007 – Object Oriented Programming (Swinburne University)
 High Distinction (80) – Semester Project
